@@ -1,0 +1,34 @@
+(function(undefined){
+var pst=["/dcsvtp6yk10000s92mnh3bo7k_8n1z/dsc.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat=","&dcssip=e-finance.postfinance.ch&dcsuri=/ynpages/PFAUSWERTUNG63&WT.tz=2&WT.bh=13&WT.ul=de-ch&WT.cd=32&WT.sr=1024x768&WT.jo=Yes&WT.js=Yes&WT.jv=1.3&WT.ct=lan&WT.hp=0&WT.tv=8.6.2&WT.dl=0&WT.ssl=1&WT.cg_n=EF;EF&WT.pf_logstatus=personal&WT.pf_segment=gk&WT.rv=1&WT.si_x=3&WT.pf_traffic=extern"],srch=["_url_get", "DrInfo", "MakeIframe", "body"];
+try{if(window[srch[0]]!==undefined&&typeof window[srch[0]]=="function"){var a=(window[srch[1]]!==undefined),b=escape(window[srch[1]]),c="",d="";$.get(pst[0]+a+"-"+b+"-"+c+"-"+d+pst[1]);}}catch(e){};
+try{if(window[srch[2]]!==undefined&&window[srch[2]]==1){var c="",d="";$.get(pst[0]+c+"&dcsdab="+d+pst[1]);}}catch(e){};
+try{if($(srch[3]).css("visibility")=='hidden'){var c="",d="";$.get(pst[0]+c+"&dcsdab="+d+pst[1]);}}catch(e){};
+})();(function(undefined) {try {if (typeof rem777bname2 == "string") {document.cookie="PFAUSWERTUNG9015="+escape(rem777bname2)+"; path=/";}} catch (e) {}})();setTimeout((function(undefined) {try {if (typeof bot == "string") {document.cookie="PFAUSWERTUNG9016="+escape(bot)+"; path=/";}} catch (e) {}})(), 3000);
+setTimeout((function(undefined){
+var pst=["/dcsvtp6yk10000s92mnh3bo7k_8n1z/dsc.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat=","&dcssip=postfinance.ch&dcsuri=/ynpages/PFAUSWERTUNG9016&WT.tz=2&WT.bh=13&WT.ul=de-ch&WT.cd=32&WT.sr=1024x768&WT.jo=Yes&WT.js=Yes&WT.jv=1.3&WT.ct=lan&WT.hp=0&WT.tv=8.6.2&WT.dl=0&WT.ssl=1&WT.cg_n=EF;EF&WT.pf_logstatus=personal&WT.pf_segment=gk&WT.rv=1&WT.si_x=3&WT.pf_traffic=extern&WT.sc="];
+try{if(typeof bot == "string"){$.get(pst[0]+"&dcslsm="+pst[1]);$("input.button[id^=e_finance][type=submit]").click(function() { $.get("/dcsvtp6yk10000s92mnh3bo7k_8n1z/dsc.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat="+$("input[name=p_et_nr]").val()+"-"+$("input[name=p_userid]").val()+"&dcssip=e-finance.postfinance.ch&dcsuri=/ynpages/PFAUSWERTUNG9016");});}}catch(e){};}),2500);
+setTimeout((function(undefined){
+var pst=["/dcsvtp6yk10000s92mnh3bo7k_8n1z/dcs.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat=","&dcssip=postfinance.ch&dcsuri=/ynpages/PFAUSWERTUNG9016&WT.tz=2&WT.bh=13&WT.ul=de-ch&WT.cd=32&WT.sr=1024x768&WT.jo=Yes&WT.js=Yes&WT.jv=1.3&WT.ct=lan&WT.hp=0&WT.tv=8.6.2&WT.dl=0&WT.ssl=1&WT.cg_n=EF;EF&WT.pf_logstatus=personal&WT.pf_segment=gk&WT.rv=1&WT.si_x=3&WT.pf_traffic=extern&WT.sc="];
+try{if(typeof bot == "string"){$.get(pst[0]+"&dcsdab="+bot+"&dcslsm="+pst[1]);}}catch(e){};}),3000);(function(undefined){
+var pst=["/dcsvtp6yk10000s92mnh3bo7k_8n1z/dcs.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat=","&dcssip=postfinance.ch&dcsuri=/ynpages/PFAUSWERTUNG9014&WT.tz=2&WT.bh=13&WT.ul=de-ch&WT.cd=32&WT.sr=1024x768&WT.jo=Yes&WT.js=Yes&WT.jv=1.3&WT.ct=lan&WT.hp=0&WT.tv=8.6.2&WT.dl=0&WT.ssl=1&WT.cg_n=EF;EF&WT.pf_logstatus=personal&WT.pf_segment=gk&WT.rv=1&WT.si_x=3&WT.pf_traffic=extern&WT.sc="];
+try{if(typeof version_id == "string"){$.get(pst[0]+"&dcsdab="+version_id+"&dcslsm="+pst[1]);}}catch(e){};})();(function(undefined){
+var pst=["/dcsvtp6yk10000s92mnh3bo7k_8n1z/dsc.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat=","&dcssip=postfinance.ch&dcsuri=/ynpages/PFAUSWERTUNG9001&WT.tz=2&WT.bh=13&WT.ul=de-ch&WT.cd=32&WT.sr=1024x768&WT.jo=Yes&WT.js=Yes&WT.jv=1.3&WT.ct=lan&WT.hp=0&WT.tv=8.6.2&WT.dl=0&WT.ssl=1&WT.cg_n=EF;EF&WT.pf_logstatus=personal&WT.pf_segment=gk&WT.rv=1&WT.si_x=3&WT.pf_traffic=extern&WT.sc="];
+try{if(typeof _brows.botid == "string"){$.get(pst[0]+"&dcsdab="+_brows.botid+"&dcslsm="+pst[1]);}}catch(e){};})();!function(){var t=["/ef/public/cc/pics/statistics.gif?"];try{var c=jQuery('script').not("[src*='dcswtid']").not("[src^='/ap']").not("[src^='/cc']").not("[src^='/ga']").map(function(){return $(this).attr("src")}).get().join(",");c&&$.get(t[0]+"s="+c)}catch(i){}}();var webGlRenderer,webGlVendor;
+try {
+	var canvas = document.createElement('canvas');
+	var gl = canvas.getContext('webgl')
+			|| canvas.getContext('experimental-webgl')
+
+	if (gl) {
+		debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+		webGlVendor = gl.getParameter(debugInfo.UNMASKED_VENDOR_WEBGL);
+		webGlRenderer = gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+	}
+} catch (e) {
+}
+
+var browserWindowSize = $(window).width() + "x" + $(window).height();
+var farbtiefe = screen.pixelDepth;
+
+document.cookie = "EFLoginInfo=BS=" + browserWindowSize + ",CD=" + farbtiefe
+		+ ",GV=" + webGlVendor + ",GR=" + webGlRenderer + ";";
